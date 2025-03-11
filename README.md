@@ -25,7 +25,7 @@ Welcome to **Simple Quiz**, a lightweight and interactive web-based quiz applica
 
 1️⃣ **Clone the Repository:**  
    ```sh
-   git clone https://github.com/Aruleeswarangithub/simple-quiz.git
+   git clone https://github.com/Aruleeswarangithub/Codsoft_task4.git
    ```
 2️⃣ **Navigate to the Project Folder:**  
    ```sh
